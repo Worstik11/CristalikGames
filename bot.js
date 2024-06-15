@@ -111,8 +111,3 @@ app.listen(port, () => {
   console.log(`🔗 Listening to GlaceYT: http://localhost:${port}`);
 });
 printWatermark();
-
-
-
-*/
-
